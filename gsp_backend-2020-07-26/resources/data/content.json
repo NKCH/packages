@@ -1,0 +1,74 @@
+{
+	"contentViewData" : {
+		"homePageContent" : {
+			"desc" : "Semiconductor, any of a class of crystalline solids intermediate in electrical conductivity between a conductor and an insulator. Semiconductors are employed in the manufacture of various kinds of electronic devices, including diodes, transistors, and integrated circuits. Such devices have found wide application because of their compactness, reliability, power efficiency, and low cost. As discrete components, they have found use in power devices, optical sensors, and light emitters, including solid-state lasers. They have a wide range of current- and voltage-handling capabilities and, more important, lend themselves to integration into complex but readily manufacturable microelectronic circuits. They are, and will be in the foreseeable future, the key elements for the majority of electronic systems, serving communications, signal processing, computing, and control applications in both the consumer and industrial markets.",
+			"productNames" : [
+				{
+					"code":"vmc",
+					"name":"Vehicular Mount Cellular Jammer"
+				},
+				{
+					"code":"rfss",
+					"name":"RF Synthesizers And Signal Sources"
+				},
+				{
+					"code":"rfs",
+					"name":"RF Switches"
+				},
+				{
+					"code":"rff",
+					"name":"RF Filters, Directional Couplers And RF Power Detectors"
+				}
+
+			]
+		},
+		"productList" : [
+			{
+				"code":"vmc",
+				"name":"Vehicular Mount Cellular Jammer",
+				"shortDesc" : "Vehicular Mount Cellular Jammer",
+				"desc": "The JAMKIT system provides an ultra-efficient, high-power mobile multi-band jamming system designed specifically for installation within any suitable vehicle. The system simultaneously jams the RF frequency bands most used around the world, including cellular (CDMA, TDMA, GSM, HGSM, etc.), satellite, walky-talky (VHF/UHF) and computer network (WLAN, WiFi, Bluetooth) frequency bands.",
+				"keyFeature" : [
+								"A high-power jamming system constructed.",
+								"A set of 5/8 high-gain omni-directional.",
+								"A wired remote control unit for convenient system operation and control."
+				]
+			},
+			{
+				"code":"rfss",
+				"name":"RF Synthesizers And Signal Sources",
+				"shortDesc" : "RF Synthesizers And Signal Sources",
+				"desc": "The JAMKIT system provides an ultra-efficient, high-power mobile multi-band jamming system designed specifically for installation within any suitable vehicle. The system simultaneously jams the RF frequency bands most used around the world, including cellular (CDMA, TDMA, GSM, HGSM, etc.), satellite, walky-talky (VHF/UHF) and computer network (WLAN, WiFi, Bluetooth) frequency bands.",
+				"keyFeature" : [
+								"A high-power jamming system constructed.",
+								"A set of 5/8 high-gain omni-directional.",
+								"A wired remote control unit for convenient system operation and control."
+				]
+			},
+			{
+				"code":"rfs",
+				"name":"RF Switches",
+				"shortDesc" : "RF Switches",
+				"desc": "The JAMKIT system provides an ultra-efficient, high-power mobile multi-band jamming system designed specifically for installation within any suitable vehicle. The system simultaneously jams the RF frequency bands most used around the world, including cellular (CDMA, TDMA, GSM, HGSM, etc.), satellite, walky-talky (VHF/UHF) and computer network (WLAN, WiFi, Bluetooth) frequency bands.",
+				"keyFeature" : [
+								"A high-power jamming system constructed.",
+								"A set of 5/8 high-gain omni-directional.",
+								"A wired remote control unit for convenient system operation and control."
+				]
+			},
+			{
+				"code":"rff",
+				"name":"RF Filters, Directional Couplers And RF Power Detectors",
+				"shortDesc" : "RF Filters, Directional Couplers And RF Power Detectors",
+				"desc": "The JAMKIT system provides an ultra-efficient, high-power mobile multi-band jamming system designed specifically for installation within any suitable vehicle. The system simultaneously jams the RF frequency bands most used around the world, including cellular (CDMA, TDMA, GSM, HGSM, etc.), satellite, walky-talky (VHF/UHF) and computer network (WLAN, WiFi, Bluetooth) frequency bands.",
+				"keyFeature" : [
+								"A high-power jamming system constructed.",
+								"A set of 5/8 high-gain omni-directional.",
+								"A wired remote control unit for convenient system operation and control."
+				]
+			}
+
+		]
+
+	}
+}
